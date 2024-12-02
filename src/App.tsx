@@ -44,7 +44,7 @@ function App() {
   const ctaButtons = [
     {
       text: 'Faire vos achats de peinture en ligne',
-      url: 'https://example.com/features',
+      url: 'https://www.peinturesdeparis.com/',
       color: 'bg-blue-600 hover:bg-blue-700',
     },
     {
