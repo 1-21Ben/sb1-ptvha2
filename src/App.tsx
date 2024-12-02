@@ -87,7 +87,7 @@ function App() {
             les départements du 75, 77, 78, 91, 92, 93, 95 et 60. Pour vous
             accompagner au mieux dans ce changement, vous retrouverez sur ce
             site l’ensemble des éléments importants. N'hésitez pas à nous
-            contacter [ici] ou chater avec nous [chatbox]
+            contacter (formulaire en bas à droite de cette page) ou chater avec nous (icône noire en bas à droite de cette page).
           </p>
         </div>
       </div>
